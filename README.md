@@ -1,9 +1,9 @@
-- 🌍 Özel kodlama ile tanıtım & kurumsal web sitesi tasarımı yapıyorum
-- 🛍️ Özel kodlama ile e-ticaret web sitesi tasarımı yapıyorum
-- ✨ Özel fonksiyonlara sahip web uygulama & panel geliştiriyorum
-- 💳 Ödeme entegrasyonları yapıyorum
-- ⛓️ Blockchain ağı ile entegre çalışan uygulamalar geliştiriyorum
-- 🌱 Şu anda reactjs öğreniyorum
+🌍 Özel kodlama ile tanıtım & kurumsal web sitesi tasarımı yapıyorum
+🛍️ Özel kodlama ile e-ticaret web sitesi tasarımı yapıyorum
+✨ Özel fonksiyonlara sahip web uygulama & panel geliştiriyorum
+💳 Ödeme entegrasyonları yapıyorum
+⛓️ Blockchain ağı ile entegre çalışan uygulamalar geliştiriyorum
+🌱 Şu anda reactjs öğreniyorum
 
 Kurumsal uygulamalar ve açık kaynaklı yazılım geliştirmede 8 yılı aşkın deneyime sahip bir backend & frontend geliştiriciyim.
 
