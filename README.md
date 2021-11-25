@@ -5,7 +5,7 @@
 ⛓️ Blockchain ağı ile entegre çalışan uygulamalar geliştiriyorum<br>
 🌱 Şu anda reactjs öğreniyorum<br>
 
-Kurumsal uygulamalar ve açık kaynaklı yazılım geliştirmede 8 yılı aşkın deneyime sahip bir backend & frontend geliştiriciyim.
+Kurumsal uygulamalar ve açık kaynaklı yazılım geliştirmede 13 yılı aşkın deneyime sahip bir backend & frontend geliştiriciyim.
 
 🔗 &nbsp;**Sosyal Medya**
 <p align="left">
